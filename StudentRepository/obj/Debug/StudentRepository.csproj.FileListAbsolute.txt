@@ -1,0 +1,12 @@
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\StudentRepository.exe.config
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\StudentRepository.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\StudentRepository.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\obj\Debug\StudentRepository.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\obj\Debug\StudentRepository.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\obj\Debug\StudentRepository.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\obj\Debug\StudentRepository.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\log.txt
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\UserLogin.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\UserLogin.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\bin\Debug\UserLogin.exe.config
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\StudentRepository\obj\Debug\StudentRepository.csproj.CopyComplete

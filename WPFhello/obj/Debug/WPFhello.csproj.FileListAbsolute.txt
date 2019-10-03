@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\bin\Debug\WPFhello.exe.config
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\bin\Debug\WPFhello.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\bin\Debug\WPFhello.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\App.g.cs
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello_MarkupCompile.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello_MarkupCompile.lref
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.g.resources
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.Properties.Resources.resources
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.csproj.GenerateResource.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\WPFhello\obj\Debug\WPFhello.pdb

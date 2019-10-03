@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\User\source\repos\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.exe.config
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\bin\Debug\UserLogin.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\obj\Debug\UserLogin.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\UserLogin\bin\Debug\log.txt

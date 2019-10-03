@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\bin\Debug\Opa.exe.config
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\bin\Debug\Opa.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\bin\Debug\Opa.pdb
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.csprojAssemblyReference.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\App.g.cs
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa_MarkupCompile.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa_MarkupCompile.lref
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.g.resources
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.Properties.Resources.resources
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.csproj.GenerateResource.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.exe
+D:\Projects\Visual Studio Projects\PS_50_Svetoslav\Opa\obj\Debug\Opa.pdb
